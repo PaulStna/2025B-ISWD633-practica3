@@ -1,3 +1,3 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado o utilizó otros comandos que no se mencionan al realizar la práctica también se debe documentar.
+## Mi aprendizaje sobre volúmenes en Docker
+
+Antes de realizar la práctica, sabía que los volúmenes en Docker servían para persistir los datos de un servicio incluso al eliminar el contenedor, pero desconocía su funcionamiento en detalle. Después de la práctica comprendí mejor cómo se almacenan los datos, cómo crear y administrar volúmenes nombrados, las diferencias con los *bind mounts* y los volúmenes anónimos, y la ubicación donde se guardan en el sistema del host (`/var/lib/docker/volumes/_data`). Este aprendizaje me permite gestionar la persistencia de datos de forma más profesional y organizada en aplicaciones y servicios dentro de contenedores, lo que aporta valor a mi formación profesional y me hace más competitivo al poder implementar soluciones más seguras, eficientes y sostenibles en entornos de desarrollo y producción.
